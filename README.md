@@ -1,5 +1,5 @@
 # GameOfNodes
-Data used for analysis in my Master's dissertation.
+Data used for analysis in my Master's dissertation for the University of Manchester.
 
 The foundational data was the same as used in [Andrew Beveridge's Network of Thrones blog](https://networkofthrones.wordpress.com), which he provides in [his GitHub repository](https://github.com/mathbeveridge/gameofthrones).
 
